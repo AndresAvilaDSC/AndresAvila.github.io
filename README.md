@@ -20,14 +20,13 @@ Experienced Data Engineer skilled in Azure and SAP technologies, adept at crafti
 - Achieved a 37% improvement in performance for orders, reports, and data movement by enhancing data processing speed on cross-functional collaboration processes through Databricks.
 - Completed the Azure Stream Analytics AM project for close real-time tracking of incoming orders & inventory movements, allowing dynamic adjustments in supply chain strategies to reduce costs and improve efficiency. 
 
-
 - Improve supply chain visibility by 20% on transportation, inventory & demand processes
 - Improved order processing accuracy resulting in a 50% improvement on order processing times using SAP S/4HANA.
 - Streamlined material master creation and maintenance processes, resulting in a 25% reduction in processing time and increased responsiveness to business needs.
 - Optimized procurement processes within SAP S/4HANA, achieving a 45% reduction in purchasing cycle times & a 7% increase in contract compliance.
 - Reviewed data migration from on-premises sources to Azure for PMT - AM/UOP, ensuring seamless transition and data integrity.
 
-## Projects
+## Projects 
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
