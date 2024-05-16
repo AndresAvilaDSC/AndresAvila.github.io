@@ -10,6 +10,8 @@ Experienced Data Engineer skilled in Azure and SAP technologies, adept at crafti
 - B.S., Industrial & systems Engeenering | Monterrey Institute of Technology and Higher Education (_ITESM_)
 
 ### Work Experience
+![EEG Band Discovery](/assets/brain.jpg)
+
 
 **Data Analyst, Honeywell (PMT).**
 - Translate business needs into actionable projects, leading the design of analytics, governance & automation solutions, support a variety of information management projects of a highly varied nature, including data analysis, data mining, and data optimization, address unexpected results, and prioritize solutions that enhance our standard operating procedures on SAP and Azure.
@@ -25,7 +27,7 @@ Experienced Data Engineer skilled in Azure and SAP technologies, adept at crafti
 - Streamlined material master creation and maintenance processes, resulting in a 25% reduction in processing time and increased responsiveness to business needs.
 - Optimized procurement processes within SAP S/4HANA, achieving a 45% reduction in purchasing cycle times & a 7% increase in contract compliance.
 - Reviewed data migration from on-premises sources to Azure for PMT - AM/UOP, ensuring seamless transition and data integrity.
-
+  
 ## Projects 
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
